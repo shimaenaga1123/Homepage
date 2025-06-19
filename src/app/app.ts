@@ -1,6 +1,10 @@
 import { Component, inject } from '@angular/core';
 import { RouterOutlet, Router, RouterLink } from '@angular/router';
-import { CommonModule } from '@angular/common';
+import {
+  CommonModule,
+  NgOptimizedImage,
+  provideImgixLoader,
+} from '@angular/common';
 import { MatToolbarModule } from '@angular/material/toolbar';
 import { MatSidenavModule } from '@angular/material/sidenav';
 import { MatListModule, MatNavList, MatListItem } from '@angular/material/list';
@@ -31,6 +35,7 @@ import { IsActiveMatchOptions } from '@angular/router';
     MatNavList,
     MatListItem,
     MatListItem,
+    NgOptimizedImage,
   ],
   templateUrl: './app.html',
   styleUrl: './app.scss',

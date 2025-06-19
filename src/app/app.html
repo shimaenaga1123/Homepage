@@ -9,9 +9,11 @@
       fixedInViewport
     >
       <img
-        src="shimaenaga.png"
+        ngSrc="shimaenaga.png"
         alt="Shimaenaga"
         class="mx-auto mt-8 mb-4 h-36 w-36 rounded-full"
+        height="128"
+        width="128"
       />
       <h2>Shimaenaga</h2>
       <h1>김강민</h1>
@@ -20,7 +22,7 @@
           <li>
             <a
               mat-list-item
-              href="/"
+              [routerLink]="['/']"
               [activated]="router.isActive('/', isActiveMatchOptions)"
             >
               <mat-icon>home</mat-icon>
@@ -30,7 +32,7 @@
           <li>
             <a
               mat-list-item
-              href="/about"
+              [routerLink]="['/about']"
               [activated]="router.isActive('/about', isActiveMatchOptions)"
             >
               <mat-icon>info</mat-icon>
