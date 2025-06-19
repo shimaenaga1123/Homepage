@@ -46,6 +46,7 @@ export default [
       ...angular.configs.recommended.rules,
       ...prettierConfig.rules,
       'prettier/prettier': 'error',
+      '@typescript-eslint/no-unused-vars': 'off',
       '@angular-eslint/directive-selector': [
         'error',
         {
