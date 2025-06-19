@@ -7,8 +7,8 @@ import { MatIconModule } from '@angular/material/icon';
 import { MatGridListModule } from '@angular/material/grid-list';
 import { MatProgressBarModule } from '@angular/material/progress-bar';
 import { MatChipsModule } from '@angular/material/chips';
-import {FaIconComponent} from '@fortawesome/angular-fontawesome';
-import {faDiscord, faGithub} from '@fortawesome/free-brands-svg-icons';
+import { FaIconComponent } from '@fortawesome/angular-fontawesome';
+import { faDiscord, faGithub } from '@fortawesome/free-brands-svg-icons';
 
 @Component({
   selector: 'app-main-component',

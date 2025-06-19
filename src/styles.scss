@@ -49,14 +49,16 @@ body {
   .mat-drawer-side {
     border-right: 1px solid var(--mat-sys-outline-variant) !important;
   }
-  h1, mat-card-title {
+  h1,
+  mat-card-title {
     font-size: 2.5rem;
     font-weight: 500;
     line-height: 1.2;
     margin: 0.67em 0;
     text-align: center;
   }
-  h2, mat-card-subtitle {
+  h2,
+  mat-card-subtitle {
     font-size: 2rem;
     font-weight: 500;
     line-height: 1.2;
