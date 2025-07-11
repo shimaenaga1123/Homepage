@@ -22,7 +22,7 @@
     "@angular/forms": "20.1.0",
     "@angular/material": "20.0.5",
     "@angular/platform-browser": "20.1.0",
-    "@angular/router": "20.0.6",
+    "@angular/router": "20.1.0",
     "@fortawesome/angular-fontawesome": "2.0.1",
     "@fortawesome/free-brands-svg-icons": "^6.7.2",
     "@tailwindcss/cli": "^4.1.11",
