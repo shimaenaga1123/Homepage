@@ -9,7 +9,7 @@
         "@angular/common": "20.2.4",
         "@angular/compiler": "20.2.4",
         "@angular/core": "20.2.4",
-        "@angular/forms": "20.2.3",
+        "@angular/forms": "20.2.4",
         "@angular/material": "20.2.2",
         "@angular/platform-browser": "20.2.4",
         "@angular/router": "20.2.4",
@@ -116,7 +116,7 @@
 
     "@angular/core": ["@angular/core@20.2.4", "", { "dependencies": { "tslib": "^2.3.0" }, "peerDependencies": { "@angular/compiler": "20.2.4", "rxjs": "^6.5.3 || ^7.4.0", "zone.js": "~0.15.0" }, "optionalPeers": ["@angular/compiler", "zone.js"] }, "sha512-8yvfvPDWX8M7o82GBl5P1nlvm1ywQ2XZi5HWj3llKpSJE2XjzhATgPrpKwiNVnpgjZWTOwM11fpoAaRKqQjxTA=="],
 
-    "@angular/forms": ["@angular/forms@20.2.3", "", { "dependencies": { "tslib": "^2.3.0" }, "peerDependencies": { "@angular/common": "20.2.3", "@angular/core": "20.2.3", "@angular/platform-browser": "20.2.3", "rxjs": "^6.5.3 || ^7.4.0" } }, "sha512-efMn/Hnspg91SzRTm69WpyGq0dgbCtWqUOrR0iZXTR/oDlJw9F/y/nrST36tOBwRNT0QQ2iU5z43iJY1Rl1Bng=="],
+    "@angular/forms": ["@angular/forms@20.2.4", "", { "dependencies": { "tslib": "^2.3.0" }, "peerDependencies": { "@angular/common": "20.2.4", "@angular/core": "20.2.4", "@angular/platform-browser": "20.2.4", "rxjs": "^6.5.3 || ^7.4.0" } }, "sha512-wbgnW+GALVAmK6hgFegkwlHKw35onvh9Z5A236HCyUySEAOiaD/3CoDg5Hw4iHQAiSU6Fn2NwDiv+W0xki6WDw=="],
 
     "@angular/material": ["@angular/material@20.2.2", "", { "dependencies": { "tslib": "^2.3.0" }, "peerDependencies": { "@angular/cdk": "20.2.2", "@angular/common": "^20.0.0 || ^21.0.0", "@angular/core": "^20.0.0 || ^21.0.0", "@angular/forms": "^20.0.0 || ^21.0.0", "@angular/platform-browser": "^20.0.0 || ^21.0.0", "rxjs": "^6.5.3 || ^7.4.0" } }, "sha512-ovLk6h6XIw3qtSjp2bSqFn7ANYvWOIh2zTrRPdAB78siOpqs11d8YdyD4LUEuUrcZoInNgK7AMJsfldDkHwhnA=="],
 
