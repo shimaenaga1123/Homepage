@@ -29,7 +29,7 @@
         "@angular/cli": "20.3.5",
         "@angular/compiler-cli": "20.3.4",
         "@hyoban/eslint-plugin-tailwindcss": "^4.0.0-alpha.13",
-        "@types/jasmine": "5.1.9",
+        "@types/jasmine": "5.1.10",
         "@types/sanitize-html": "^2.16.0",
         "@typescript-eslint/eslint-plugin": "^8.46.0",
         "@typescript-eslint/parser": "^8.46.1",
@@ -588,7 +588,7 @@
 
     "@types/estree": ["@types/estree@1.0.8", "", {}, "sha512-dWHzHa2WqEXI/O1E9OjrocMTKJl2mSrEolh1Iomrv6U+JuNwaHXsXx9bLu5gG7BUWFIN0skIQJQ/L1rIex4X6w=="],
 
-    "@types/jasmine": ["@types/jasmine@5.1.9", "", {}, "sha512-8t4HtkW4wxiPVedMpeZ63n3vlWxEIquo/zc1Tm8ElU+SqVV7+D3Na2PWaJUp179AzTragMWVwkMv7mvty0NfyQ=="],
+    "@types/jasmine": ["@types/jasmine@5.1.10", "", {}, "sha512-ctILpOSFD58PTyGwr400GadefIHPqdWQ8VlZI9D65USOWR/aIw8dkDAw17KPCu/Wn+e+r9BWpPtmuB5T/pP8ng=="],
 
     "@types/json-schema": ["@types/json-schema@7.0.15", "", {}, "sha512-5+fP8P8MFNC+AyZCDxrB2pkZFPGzqQWUzpSeuuVLvm8VMcorNYavBqoFcxK8bQz4Qsbn4oUEEem4wDLfcysGHA=="],
 
