@@ -21,7 +21,7 @@
     "@angular/core": "20.3.5",
     "@angular/forms": "20.3.6",
     "@angular/material": "20.2.9",
-    "@angular/platform-browser": "20.3.4",
+    "@angular/platform-browser": "20.3.6",
     "@angular/router": "20.3.6",
     "@fortawesome/angular-fontawesome": "3.0.0",
     "@fortawesome/free-brands-svg-icons": "^7.1.0",
