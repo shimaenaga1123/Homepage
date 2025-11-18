@@ -4,7 +4,7 @@
     "": {
       "name": "homepage",
       "dependencies": {
-        "@angular/animations": "20.3.11",
+        "@angular/animations": "20.3.12",
         "@angular/cdk": "20.2.13",
         "@angular/common": "20.3.12",
         "@angular/compiler": "20.3.12",
@@ -100,7 +100,7 @@
 
     "@angular-eslint/utils": ["@angular-eslint/utils@20.6.0", "", { "dependencies": { "@angular-eslint/bundled-angular-compiler": "20.6.0" }, "peerDependencies": { "@typescript-eslint/utils": "^7.11.0 || ^8.0.0", "eslint": "^8.57.0 || ^9.0.0", "typescript": "*" } }, "sha512-usjCCjbdtqy4p8I3BMPn6LrXECFLCohBa75h59PK0kV/TEb8OlnIWIWTVtZAMw/MgohtExl69GkSNmL3ElWbUQ=="],
 
-    "@angular/animations": ["@angular/animations@20.3.11", "", { "dependencies": { "tslib": "^2.3.0" }, "peerDependencies": { "@angular/core": "20.3.11" } }, "sha512-7ysqAUE3PRmrOC1JZYYzI6eabgzkWnUPTsohcliOh7gxJdIcA3h+oJS/GiBrzpzGIkIH806reJbP916jbCcWxQ=="],
+    "@angular/animations": ["@angular/animations@20.3.12", "", { "dependencies": { "tslib": "^2.3.0" }, "peerDependencies": { "@angular/core": "20.3.12" } }, "sha512-tkzruF0pbcOrC2lwsPKjkp5btazs6vcX4At7kyVFjjuPbgI6RNG+MoFXHpN9ypenscYtTAhDcPSmjBnzoDaXhQ=="],
 
     "@angular/build": ["@angular/build@20.3.10", "", { "dependencies": { "@ampproject/remapping": "2.3.0", "@angular-devkit/architect": "0.2003.10", "@babel/core": "7.28.3", "@babel/helper-annotate-as-pure": "7.27.3", "@babel/helper-split-export-declaration": "7.24.7", "@inquirer/confirm": "5.1.14", "@vitejs/plugin-basic-ssl": "2.1.0", "beasties": "0.3.5", "browserslist": "^4.23.0", "esbuild": "0.25.9", "https-proxy-agent": "7.0.6", "istanbul-lib-instrument": "6.0.3", "jsonc-parser": "3.3.1", "listr2": "9.0.1", "magic-string": "0.30.17", "mrmime": "2.0.1", "parse5-html-rewriting-stream": "8.0.0", "picomatch": "4.0.3", "piscina": "5.1.3", "rollup": "4.52.3", "sass": "1.90.0", "semver": "7.7.2", "source-map-support": "0.5.21", "tinyglobby": "0.2.14", "vite": "7.1.11", "watchpack": "2.4.4" }, "optionalDependencies": { "lmdb": "3.4.2" }, "peerDependencies": { "@angular/compiler": "^20.0.0", "@angular/compiler-cli": "^20.0.0", "@angular/core": "^20.0.0", "@angular/localize": "^20.0.0", "@angular/platform-browser": "^20.0.0", "@angular/platform-server": "^20.0.0", "@angular/service-worker": "^20.0.0", "@angular/ssr": "^20.3.10", "karma": "^6.4.0", "less": "^4.2.0", "ng-packagr": "^20.0.0", "postcss": "^8.4.0", "tailwindcss": "^2.0.0 || ^3.0.0 || ^4.0.0", "tslib": "^2.3.0", "typescript": ">=5.8 <6.0", "vitest": "^3.1.1" }, "optionalPeers": ["@angular/core", "@angular/localize", "@angular/platform-browser", "@angular/platform-server", "@angular/service-worker", "@angular/ssr", "karma", "less", "ng-packagr", "postcss", "tailwindcss", "vitest"] }, "sha512-nQrj1nMNZygYDilThc7hPrD6/NIWF/BOSgMfE4VkXQp8d0QronP3HFJ/h77MeoughMRFRhix0pqQSlXJQ2SGTQ=="],
 
