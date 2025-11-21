@@ -9,7 +9,7 @@
         "@angular/common": "21.0.0",
         "@angular/compiler": "21.0.0",
         "@angular/core": "21.0.0",
-        "@angular/forms": "20.3.12",
+        "@angular/forms": "21.0.0",
         "@angular/material": "21.0.0",
         "@angular/platform-browser": "21.0.0",
         "@angular/router": "20.3.12",
@@ -116,7 +116,7 @@
 
     "@angular/core": ["@angular/core@21.0.0", "", { "dependencies": { "tslib": "^2.3.0" }, "peerDependencies": { "@angular/compiler": "21.0.0", "rxjs": "^6.5.3 || ^7.4.0", "zone.js": "~0.15.0" }, "optionalPeers": ["@angular/compiler", "zone.js"] }, "sha512-bqi8fT4csyITeX8vdN5FJDBWx5wuWzdCg4mKSjHd+onVzZLyZ8bcnuAKz4mklgvjvwuXoRYukmclUurLwfq3Rg=="],
 
-    "@angular/forms": ["@angular/forms@20.3.12", "", { "dependencies": { "tslib": "^2.3.0" }, "peerDependencies": { "@angular/common": "20.3.12", "@angular/core": "20.3.12", "@angular/platform-browser": "20.3.12", "rxjs": "^6.5.3 || ^7.4.0" } }, "sha512-O0Jy8ScaN3qVipDfR4s0SIxGrz/+MbCdmR05ZYVWf1W5P3dvETKt9WNjX9fYYV47GdgSveyFjuCR2NvWlv94zA=="],
+    "@angular/forms": ["@angular/forms@21.0.0", "", { "dependencies": { "tslib": "^2.3.0" }, "peerDependencies": { "@angular/common": "21.0.0", "@angular/core": "21.0.0", "@angular/platform-browser": "21.0.0", "@standard-schema/spec": "^1.0.0", "rxjs": "^6.5.3 || ^7.4.0" } }, "sha512-kcudwbZs/ddKqaELz4eEW9kOGCsX61qsf9jkQsGTARBEOUcU2K+rM6mX5sTf9azHvQ9wlX4N36h0eYzBA4Y4Qg=="],
 
     "@angular/material": ["@angular/material@21.0.0", "", { "dependencies": { "tslib": "^2.3.0" }, "peerDependencies": { "@angular/cdk": "21.0.0", "@angular/common": "^21.0.0 || ^22.0.0", "@angular/core": "^21.0.0 || ^22.0.0", "@angular/forms": "^21.0.0 || ^22.0.0", "@angular/platform-browser": "^21.0.0 || ^22.0.0", "rxjs": "^6.5.3 || ^7.4.0" } }, "sha512-s3+fhN7F5T1TAltZXYXOgY1wuVbICCrBJpV2TN8nJXDT0wroTYAljgBmsr6ZjDwYJewwP0OPvcj2NlOGDpa6oA=="],
 
@@ -585,6 +585,8 @@
     "@socket.io/component-emitter": ["@socket.io/component-emitter@3.1.2", "", {}, "sha512-9BCxFwvbGg/RsZK9tjXd8s4UcwR0MWeFQ1XEKIQVVvAGJyINdrqKMcTRyLoK8Rse1GjzLV9cwjWV1olXRWEXVA=="],
 
     "@speed-highlight/core": ["@speed-highlight/core@1.2.7", "", {}, "sha512-0dxmVj4gxg3Jg879kvFS/msl4s9F3T9UXC1InxgOf7t5NvcPD97u/WTA5vL/IxWHMn7qSxBozqrnnE2wvl1m8g=="],
+
+    "@standard-schema/spec": ["@standard-schema/spec@1.0.0", "", {}, "sha512-m2bOd0f2RT9k8QJx1JN85cZYyH1RqFBdlwtkSlf4tBDYLCiiZnv1fIIwacK6cqwXavOydf0NPToMQgpKq+dVlA=="],
 
     "@tailwindcss/cli": ["@tailwindcss/cli@4.1.17", "", { "dependencies": { "@parcel/watcher": "^2.5.1", "@tailwindcss/node": "4.1.17", "@tailwindcss/oxide": "4.1.17", "enhanced-resolve": "^5.18.3", "mri": "^1.2.0", "picocolors": "^1.1.1", "tailwindcss": "4.1.17" }, "bin": { "tailwindcss": "dist/index.mjs" } }, "sha512-jUIxcyUNlCC2aNPnyPEWU/L2/ik3pB4fF3auKGXr8AvN3T3OFESVctFKOBoPZQaZJIeUpPn1uCLp0MRxuek8gg=="],
 
