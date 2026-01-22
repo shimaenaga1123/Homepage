@@ -28,7 +28,7 @@
         "@angular-eslint/template-parser": "21.1.0",
         "@angular/build": "21.1.0",
         "@angular/cli": "21.1.0",
-        "@angular/compiler-cli": "21.1.0",
+        "@angular/compiler-cli": "21.1.1",
         "@hyoban/eslint-plugin-tailwindcss": "^4.0.0-alpha.13",
         "@types/jasmine": "5.1.15",
         "@types/sanitize-html": "^2.16.0",
@@ -113,7 +113,7 @@
 
     "@angular/compiler": ["@angular/compiler@21.1.0", "", { "dependencies": { "tslib": "^2.3.0" } }, "sha512-UprCiJwEU1Ilw1dVk+yLgNiHlbH81obAuh92lRKozUQRgtSCpOfCQUM79q5r+VdmCPxDshr79U2Ke0fRaiJfAQ=="],
 
-    "@angular/compiler-cli": ["@angular/compiler-cli@21.1.0", "", { "dependencies": { "@babel/core": "7.28.5", "@jridgewell/sourcemap-codec": "^1.4.14", "chokidar": "^5.0.0", "convert-source-map": "^1.5.1", "reflect-metadata": "^0.2.0", "semver": "^7.0.0", "tslib": "^2.3.0", "yargs": "^18.0.0" }, "peerDependencies": { "@angular/compiler": "21.1.0", "typescript": ">=5.9 <6.0" }, "optionalPeers": ["typescript"], "bin": { "ngc": "bundles/src/bin/ngc.js", "ng-xi18n": "bundles/src/bin/ng_xi18n.js" } }, "sha512-//BTtxJovsF0LaOWQkOVxWX4EVyNJaPus+IlwWxzmdRHpojIl1Zdyy9BJMVJOifvj3XQ16sZwR1PDWDI5DIWrg=="],
+    "@angular/compiler-cli": ["@angular/compiler-cli@21.1.1", "", { "dependencies": { "@babel/core": "7.28.5", "@jridgewell/sourcemap-codec": "^1.4.14", "chokidar": "^5.0.0", "convert-source-map": "^1.5.1", "reflect-metadata": "^0.2.0", "semver": "^7.0.0", "tslib": "^2.3.0", "yargs": "^18.0.0" }, "peerDependencies": { "@angular/compiler": "21.1.1", "typescript": ">=5.9 <6.0" }, "optionalPeers": ["typescript"], "bin": { "ngc": "bundles/src/bin/ngc.js", "ng-xi18n": "bundles/src/bin/ng_xi18n.js" } }, "sha512-CCB8SZS0BzqLOdOaMpPpOW256msuatYCFDRTaT+awYIY1vQp/eLXzkMTD2uqyHraQy8cReeH/P6optRP9A077Q=="],
 
     "@angular/core": ["@angular/core@21.1.0", "", { "dependencies": { "tslib": "^2.3.0" }, "peerDependencies": { "@angular/compiler": "21.1.0", "rxjs": "^6.5.3 || ^7.4.0", "zone.js": "~0.15.0 || ~0.16.0" }, "optionalPeers": ["@angular/compiler", "zone.js"] }, "sha512-QTl9s8GYNN0pt1k3GE6UVlfe6zWtfdykhfchinKq2YJywQ6LBM4UcZgoc56YkgscmyrRFYrr4JYUJjlzTF57+A=="],
 
